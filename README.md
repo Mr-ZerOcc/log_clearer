@@ -21,3 +21,4 @@ Run the script with root privileges:
 
 ```bash
 sudo python3 cleaner.py [options]
+sudo python3 cleaner.py --help
